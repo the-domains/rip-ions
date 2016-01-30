@@ -1,0 +1,28 @@
+name: Rip Ions
+favicon: null
+layout_spectrum: 0.6880616683047265
+typography_spectrum: 0.9749234353657812
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8054204017389566
+  lightness: 0.7100668798666447
+  saturation: 0.013721074210479856
+  rhythmicContrast: 0.8606322938576341
+purpose: []
